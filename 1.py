@@ -17,3 +17,6 @@ elif descending == 7:
     print("descending")
 else: 
     print("mixed")
+
+#2798 블랙잭 
+
